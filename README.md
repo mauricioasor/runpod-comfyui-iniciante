@@ -2,6 +2,9 @@
 
 Arquivos do vídeo do YouTube: alugar uma placa de vídeo por hora no RunPod e gerar imagens e vídeos com IA no ComfyUI.
 
+🎁 **Crie sua conta no RunPod com bônus:** https://runpod.io?ref=fn1tlxh2
+(entre com o Google, conta nova, e coloque pelo menos US$ 10 de saldo; o bônus sorteado vai de US$ 5 a US$ 500 em créditos. É link de indicação: eu também ganho créditos, sem custo a mais para você.)
+
 ## Arquivos
 
 | Arquivo | O que faz |
